@@ -1,9 +1,9 @@
 //============================================================================
 // Name        : ID3.cpp
-// Author      : 
+// Author      : Binki
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : A random forest classifier with reduced error pruning methods implemented for each decision tree
 //============================================================================
 
 #include <iostream>
