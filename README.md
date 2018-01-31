@@ -7,7 +7,7 @@ Implemented Algorithms:
 3.	Random Forest Algorithm
 
 
-ID3 Decision Tree Algorithm
+**ID3 Decision Tree Algorithm**
 
 Measures of performance:
 
