@@ -1,7 +1,7 @@
 # Random-Forest-Classifier
 C++ implementation of a random forest classifier with reduced error pruning methods
 
-Implemented Algorithms:
+**Implemented Algorithms:**
 1.	ID3 Decision Tree Algorithm
 2.	Reduced Error Pruning 
 3.	Random Forest Algorithm
@@ -21,7 +21,7 @@ Measures of performance:
 
 •	F measure: 58.74%
 
-ID3 with Reduced Error Pruning
+**ID3 with Reduced Error Pruning**
 
 We halved the training data set, and used the first half for training the decision tree and the second half as a validation set to prune the tree.
 
@@ -43,7 +43,7 @@ Measures of performance:
 
 •	F measure: 51.62%
 
-Random Forest Algorithm
+**Random Forest Algorithm**
 
 For the random forest we used a 100 decision trees to expand the variance we cover. Sample for attribute’s random sampling was taken as square root of total number of attributes.
 
